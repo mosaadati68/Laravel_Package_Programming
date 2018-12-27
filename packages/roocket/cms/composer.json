@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Roocket\\Cms\\": "src/"
+            "Roocket\\": "src/"
         }
     },
     "require": {
